@@ -1,0 +1,6 @@
+1. Launch EC2 instance
+2. Configure security group
+3. Connect using SSH
+4. Install Apache
+5. Deploy sample webpage
+
